@@ -1,3 +1,3 @@
 # List of participants
 
-- Otacilio Maia
+- Otacilio Maia Neto
