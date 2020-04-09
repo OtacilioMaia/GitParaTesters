@@ -2,3 +2,4 @@
 
 - Otacilio Maia Neto
 - Rhuan Alves 
+- Alessandra Coutinho
